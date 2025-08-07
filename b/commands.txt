@@ -5,4 +5,7 @@ npm install express mysql2 cors body-parser bcrypt jsonwebtoken
 cd ..
 npx create-react-app frontend
 cd frontend
+
 npm install axios react-router-dom bootstrap
+
+import 'bootstrap/dist/css/bootstrap.min.css';
